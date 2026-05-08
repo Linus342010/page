@@ -1,11 +1,22 @@
+body {
+    font-family: monospace;
+    background-color: #0d0d0d;
+}
+
+#main_nav {
+    display: flex;
+    justify-content: space-around;
+    background-color: #212121;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 2%;
+    tex
+}
+
 main {
     padding: 10px;
     border-radius: 10px;
-    margin: 10%;
-    background-color: rgb(33, 33, 33);
+    margin: 2%;
+    background-color: #212121;
     color: white;
-}
-body {
-    font-family: monospace;
-    background-color: rgb(13, 13, 13);
 }
